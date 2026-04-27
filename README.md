@@ -39,6 +39,13 @@ Automação para sincronização e validação de usuários entre o 3CX e o Goog
 
 Credenciais sensíveis não são armazenadas no código.
 
+## Environment Variables
+
+Configure as seguintes variáveis no Apps Script:
+
+- FQDN
+- CLIENT_SECRET
+
 ##  Objetivo
 
 Automatizar a governança de usuários entre sistemas, reduzindo inconsistências e melhorando a gestão de acessos.
