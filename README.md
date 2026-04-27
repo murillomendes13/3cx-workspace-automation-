@@ -49,3 +49,11 @@ Configure as seguintes variáveis no Apps Script:
 ##  Objetivo
 
 Automatizar a governança de usuários entre sistemas, reduzindo inconsistências e melhorando a gestão de acessos.
+
+##  Problema
+
+Ambientes corporativos frequentemente possuem inconsistências entre sistemas de telefonia (3CX) e diretórios de usuários (Google Workspace), gerando riscos de segurança e gestão ineficiente.
+
+## Solução
+
+Este projeto automatiza a validação de usuários entre os sistemas, identificando inconsistências e sugerindo ações corretivas.
