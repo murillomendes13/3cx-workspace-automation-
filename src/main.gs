@@ -3,7 +3,7 @@
 // ============================================================
 const CONFIG_3CX = {
   FQDN: PropertiesService.getScriptProperties().getProperty('FQDN'),
-  CLIENT_ID: 'googlesheets',
+  CLIENT_ID: PropertiesService.getScriptProperties().getProperty('CLIENT_ID'),
   CLIENT_SECRET: PropertiesService.getScriptProperties().getProperty('CLIENT_SECRET')
 };
 
